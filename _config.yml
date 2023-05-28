@@ -1,9 +1,10 @@
 title: Sadhan Shetty
+blank_title: true
 logo: /assets/img/logo.png
 email: shettysadhan@gmail.com
 description: Professional Software Engineer at DXC Technology, Bangalore.
 show_downloads: false
-google_analytics: UA-108144808-1
+google_analytics: ${{env.GOOGLE_ANALYTICS}}
 color-scheme: auto
 plugins:
   - jekyll-sitemap
@@ -42,3 +43,6 @@ sidebar:
 # GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
 # adding this avoids it
 github: [metadata]
+cdn:
+  jsdelivr:
+    enabled: true
