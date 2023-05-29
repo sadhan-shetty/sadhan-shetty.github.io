@@ -4,11 +4,12 @@ title: "Sadhan Shetty"
 ---
 
 I'm working as an Associate Professional Software Engineer at [DXC Technology](https://dxc.com/us/en).
-# Header 1
+---
+## Education
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Experience
 
 > This is a blockquote following a header.
 >
