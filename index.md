@@ -3,14 +3,19 @@ layout: default
 title: "Sadhan Shetty"
 
 ---
-I'm working as an Associate Professional Software Engineer at [DXC Technology](https://dxc.com/us/en).
+I'm a Java Backend Developer with 2+ years of experience known for attention to detail and I enjoy contributing to the technological advances in the project. Currently working as a Professional Software Engineer at [DXC Technology](https://dxc.com/us/en).
 
 ---
-## Education
+## Objective
+My objective is to contribute all my skills for the welfare of the company and learn new things while I am 
+associated with the organization.
+
+---
+## Experience
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Experience
+## Education
 
 > This is a blockquote following a header.
 >
