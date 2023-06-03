@@ -3,7 +3,7 @@ blank_title: true
 logo: /assets/img/logo.png
 email: shettysadhan@gmail.com
 favicon: true
-description: Professional Software Engineer at DXC Technology, Bangalore.
+description: Associate Professional Software Engineer at DXC Technology, Bangalore.
 show_downloads: false
 google_analytics: ${{env.GOOGLE_ANALYTICS}}
 color-scheme: auto
