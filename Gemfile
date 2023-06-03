@@ -1,20 +1,12 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-
-gemspec
-# commenting below to remove dependency with "github-pages" 
-# gem "github-pages", group: :jekyll_plugins
-
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
-
-# https://github.com/jekyll/jekyll/issues/8523#issuecomment-751409319
-# When running locally, we run into the following error —
-# `require': cannot load such file -- webrick (LoadError)
-# adding this avoids it
-gem "webrick"
-
-# adding the following gems to support removal of "github-pages" dependency
-gem "jemoji"
-gem "kramdown-parser-gfm"
+# gem "jekyll"
+gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head"
+# gem "github-pages", "~> 223"
+group :jekyll_plugins do
+    gem "jekyll-seo-tag"
+    gem "jekyll-sitemap"
+    gem "webrick"
+    gem "jemoji"
+end
+# Performance-booster for watching directories on Windows
+gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]

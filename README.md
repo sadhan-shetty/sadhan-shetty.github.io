@@ -1,6 +1,6 @@
 # Sadhan Shetty
 
-> mail-to: sadhanshetty1998@gmail.com
+> mail-to: shettysadhan@gmail.com
 
 ---
 
