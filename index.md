@@ -13,8 +13,8 @@ My objective is to contribute all my skills for the welfare of the company and l
 ## Experience
 
 _April 2021 to Present <br>
-Currently I'm wokring at [**DXC Technology**](https://dxc.com/us/en) as an _Associate_Professional Software Engineer_. 
-I Worked in Life Insurance and Annuity domain sector and contributed mainly to the interfaces development module of [DXC Assure](https://dxc.com/us/en/services/insurance-software-bps/dxc-insurance-software/dxc-assure-for-life-and-wealth) for the client **Equitable** (https://equitable.com/ ) using Spring Batch Jobs.
+Currently I'm wokring at [**DXC Technology**](https://dxc.com/us/en), Bangalore as an _Associate_Professional Software Engineer_. 
+I Worked in Life Insurance and Annuity domain sector and contributed mainly to the interfaces development module of [DXC Assure](https://dxc.com/us/en/services/insurance-software-bps/dxc-insurance-software/dxc-assure-for-life-and-wealth) for the client [**Equitable(EQH)**](https://equitable.com/), New York, United States using Spring Batch Jobs.
 
 ---
 ## Education
