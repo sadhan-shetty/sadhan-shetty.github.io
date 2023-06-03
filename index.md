@@ -3,122 +3,20 @@ layout: default
 title: "Sadhan Shetty"
 
 ---
-I'm a Java Backend Developer with 2+ years of experience known for attention to detail and I enjoy contributing to the technological advances in the project. Currently working as a Professional Software Engineer at [DXC Technology](https://dxc.com/us/en).
+I'm a Java Backend Developer with 2+ years of experience known for attention to detail and I enjoy contributing to the technological advances in the project. Currently working as an Associate Professional Software Engineer at [DXC Technology](https://dxc.com/us/en).
 
 ---
 ## Objective
-My objective is to contribute all my skills for the welfare of the company and learn new things while I am 
-associated with the organization.
+My objective is to contribute all my skills for the welfare of the company and learn new things while I am associated with the organization.
 
 ---
 ## Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+_April 2021 to Present <br>
+Currently I'm wokring at [**DXC Technology**](https://dxc.com/us/en) as an _Associate_Professional Software Engineer_. 
+I Worked in Life Insurance and Annuity domain sector and contributed mainly to the interfaces development module of [DXC Assure](https://dxc.com/us/en/services/insurance-software-bps/dxc-insurance-software/dxc-assure-for-life-and-wealth) for the client **Equitable** (https://equitable.com/ ) using Spring Batch Jobs.
 
+---
 ## Education
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Bachelor of Engineering in Information Science from Canara Engineering College, Mangalore.
