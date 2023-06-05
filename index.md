@@ -12,7 +12,7 @@ My objective is to contribute all my skills for the welfare of the company and l
 ---
 ## Experience
 April 2021 to Present <br>
-I worked in Life Insurance & Annuity domain and contributed mainly to the interfaces development module of [DXC Assure](https://dxc.com/us/en/services/insurance-software-bps/dxc-insurance-software/dxc-assure-for-life-and-wealth), also developed multiple customer specific Spring Batch Jobs for the client [**Equitable**](https://equitable.com/) which is located in New York, United States. I was involved in writing data conversion logics according to the business requirement using ETL tool and explored various AWS services like S3 bucket, IAM (Identity Access Management), AWS Glue etc. Also I worked as an offshore programmer analyst for nbA implementation of the client [**Penn Mutual Life**](https://www.pennmutual.com/).
+I worked in Life Insurance & Annuity domain and contributed mainly to the interfaces development module of [DXC Assure](https://dxc.com/us/en/services/insurance-software-bps/dxc-insurance-software/dxc-assure-for-life-and-wealth), also developed multiple customer specific Spring Batch Jobs for the client [**Equitable**](https://equitable.com/). I was involved in writing data conversion logics according to the business requirement using ETL tool and explored various AWS services like S3 bucket, IAM (Identity Access Management), AWS Glue etc. Also I worked as an offshore programmer analyst for nbA implementation of the client [**Penn Mutual Life**](https://www.pennmutual.com/).
 
 ---
 ## Education
