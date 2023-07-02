@@ -20,4 +20,4 @@ _April 2021 - Present_ <br>
 
 ---
 ## Education
-Bachelor of Engineering in Information Science from Canara Engineering College, Mangalore.
+Bachelor of Engineering in Information Science from Canara Engineering College, Mangalore affiliated to Visvesvaraya Technological University.
