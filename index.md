@@ -7,7 +7,7 @@ I'm a Java Backend Developer with 2+ years of experience known for attention to 
 
 ---
 ## Objective
-To be employed in an organization where I can utilize my skills and abilities to achieve professional & organizational growth. I would like to see myself in a responsible position where the company treats me as its important asset. Also, my experience and skills add value to organizational operations.
+To be employed in an organization where I can utilize my skills and abilities to achieve professional & organizational growth. I would like to see myself in a responsible position where the company treats me as it's important asset. Also, my experience and skills add value to organizational operations.
 
 ---
 ## Experience
