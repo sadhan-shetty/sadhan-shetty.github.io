@@ -15,7 +15,7 @@ _April 2021 - Present_ <br>
 - Started at [**DXC Technology**](https://dxc.com/us/en) as a _Graduate Engineering Trainee_ then worked as _Associate Software Engineer_.
 - Worked in Life Insurance & Annuity domain and contributed mainly to the interfaces development module of [DXC Assure](https://dxc.com/us/en/services/insurance-software-bps/dxc-insurance-software/dxc-assure-for-life-and-wealth).
 - Developed multiple customer-specific Spring Batch Jobs for the client [**Equitable**](https://equitable.com/).
-- Also involved in writing data conversion logic according to the business requirements using ETL tool and explored various AWS services like S3 Bucket, IAM (Identity Access Management), AWS Glue, AWS CloudWatch, etc.
+- Also involved in writing data conversion logics according to the business requirements using ETL tool and explored various AWS services like S3 Bucket, IAM (Identity Access Management), AWS Glue, AWS CloudWatch, etc.
 - Worked as an offshore programmer analyst and contributed to nbA implementation for the client [**Penn Mutual Life**](https://www.pennmutual.com/).
 
 ---
