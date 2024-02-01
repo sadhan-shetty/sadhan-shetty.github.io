@@ -12,7 +12,7 @@ To be employed in an organization where I can utilize my skills and abilities to
 ---
 ## Experience
 _April 2021 - Present_ <br>
-- Started at [**DXC Technology**](https://dxc.com/us/en) as a _Graduate Engineering Trainee_ then worked as _Associate Software Engineer_.
+- Started at [**DXC Technology**](https://dxc.com/us/en) as _Associate Software Engineer_ and currently working as _Analyst1 Software Engineering_.
 - Worked in Life Insurance & Annuity domain and contributed mainly to the interfaces development module of [DXC Assure](https://dxc.com/us/en/services/insurance-software-bps/dxc-insurance-software/dxc-assure-for-life-and-wealth).
 - Developed multiple customer-specific Spring Batch Jobs for the client [**Equitable**](https://equitable.com/).
 - Also involved in writing data conversion logics according to the business requirements using ETL tool and explored various AWS services like S3 Bucket, IAM (Identity Access Management), AWS Glue, AWS CloudWatch, etc.
