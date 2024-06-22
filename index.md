@@ -3,7 +3,7 @@ layout: default
 title: "Sadhan Shetty"
 
 ---
-I'm a Java Backend Developer with 2+ years of experience known for attention to detail and I enjoy contributing to the technological advances in the project. Currently working as Analyst 1 Software Engineering at [DXC Technology](https://dxc.com/us/en).
+I'm a Java Backend Developer with 3+ years of experience known for attention to detail and I enjoy contributing to the technological advances in the project. Currently working as Analyst 1 Software Engineering at [DXC Technology](https://dxc.com/us/en).
 
 ---
 ## Objective
